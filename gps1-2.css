@@ -1,0 +1,53 @@
+/* include your css here */
+
+    html {
+      font-family: helvetica;
+    }
+    
+    body {
+      background-color: #A3FFD1;
+    }
+    h1 {
+      font-size: 50px;
+      font-family: helvetica;
+      color: tomato;
+      text-align: center;
+    }
+    h2 {
+      text-align: center;
+    }
+
+    h3 {
+      font-size: 26px;
+      text-align: right;
+      margin-right: 10px;
+      font-style: italic;
+    }
+
+    h3 a:link {
+      text-decoration: none;
+    }
+    h3 a:hover {
+      border-radius: 5px;
+      border: 1px solid black;
+    }
+
+    .text {
+    text-align: left;
+      margin: 50px 100px 50px 100px;
+      background-color: #A3FFD1;
+    }
+
+    footer {   
+    bottom: 10px;
+    margin-right: 20px;
+    text-align: right;
+    }
+
+    a:visited {
+      color: red;
+    }
+
+    a:hover {
+      background-color: yellow;
+    }
